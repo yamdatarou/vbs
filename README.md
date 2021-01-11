@@ -17,5 +17,5 @@
 ```
 ### Q
     1.  新規シート作成方法？
-    1. object の扱い方？
+    1. object の扱い方？::http://officetanaka.net/excel/vba/table/
     
