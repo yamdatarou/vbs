@@ -16,6 +16,6 @@
         新規.生徒名
 ```
 ### Q
-    1.  新規シート作成方法？https://docs.microsoft.com/ja-jp/
-    1. object の扱い方？::http://officetanaka.net/excel/vba/table/
+    1.  新規シート作成方法？https://docs.microsoft.com/ja-jp/　https://office-hack.com/excel/macro/
+    1. object の扱い方？::http://officetanaka.net/excel/vba/table/　
     
